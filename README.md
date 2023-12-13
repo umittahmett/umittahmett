@@ -19,8 +19,7 @@
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umitahmedd&show_icons=true&locale=en" alt="umitahmedd" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umitahmedd&show_icons=true&locale=en&layout=compact" alt="umitahmedd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umitahmedd&show_icons=true&locale=en" alt="umitahmedd" /></p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umitahmedd&show_icons=true&locale=en&layout=compact" alt="umitahmedd" /></p>
 
 
 

@@ -19,10 +19,10 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umitahmedd&show_icons=true&locale=en&layout=compact" alt="umitahmedd" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umitahmedd&" alt="umitahmedd" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umitahmedd&show_icons=true&locale=en" alt="umitahmedd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umitahmedd&" alt="umitahmedd" /></p>
 
-<p><img align="center" src="[https://wakatime.com/share/@umitahmedd/e75fdc06-34fe-4fef-8e90-9297c6953b54.svg](https://github-readme-stats.vercel.app/api/wakatime?username=umitahmedd)https://github-readme-stats.vercel.app/api/wakatime?username=umitahmedd"></img></p>
+
+
 

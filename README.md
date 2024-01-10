@@ -2,6 +2,7 @@
 <h3 align="left">A passionate Web developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umitahmedd&label=Profile%20views&color=0e75b6&style=flat" alt="umitahmedd" /> </p>
+<a href="https://wakatime.com/@018c11b7-4188-448d-8426-3532fa190476"><img src="https://wakatime.com/badge/user/018c11b7-4188-448d-8426-3532fa190476.svg" alt="Total time coded since Nov 27 2023" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

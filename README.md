@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Ümit Ahmet</h1>
 <h3 align="left">A Front-end Web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umitahmedd&label=Profile%20views&color=0e75b6&style=flat" alt="umitahmedd" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umittahmett&label=Profile%20views&color=0e75b6&style=flat" alt="umittahmett" /> </p>
 <a href="https://wakatime.com/@018c11b7-4188-448d-8426-3532fa190476"><img src="https://wakatime.com/badge/user/018c11b7-4188-448d-8426-3532fa190476.svg" alt="Total time coded since Nov 27 2023" /></a>
 
 <h3 align="left">Connect with me:</h3>
@@ -16,7 +16,7 @@
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umitahmedd&show_icons=true&locale=en" alt="umitahmedd" /></p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umitahmedd&show_icons=true&locale=en&layout=compact" alt="umitahmedd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umittahmett&show_icons=true&locale=en" alt="umittahmett" /></p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umittahmett&show_icons=true&locale=en&layout=compact" alt="umittahmett" /></p>
 
 
 
